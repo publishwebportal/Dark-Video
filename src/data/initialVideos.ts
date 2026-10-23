@@ -3,8 +3,8 @@ import { VideoItem } from '../types';
 export const INITIAL_VIDEOS: VideoItem[] = [
   {
     id: 'dv-01',
-    title: '13yo girl',
-    titleBn: '১৩ বছরের মেয়ে',
+    title: 'Rape of a 13yo girl',
+    titleBn: '১৩ বছরের মেয়েকে ধর্ষণ',
     thumbnailUrl: '/images/raped.jpg',
     videoUrl: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4',
     duration: '18:45',
@@ -22,8 +22,8 @@ export const INITIAL_VIDEOS: VideoItem[] = [
   },
   {
     id: 'dv-02',
-    title: 'One boy, two girls',
-    titleBn: 'এক ছেলে দুই মেয়ে',
+    title: 'One boy has sex with two girls',
+    titleBn: 'এক ছেলে দুই মেয়ের সাথে সেক্স',
     thumbnailUrl: '/images/29.jpg',
     videoUrl: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4',
     duration: '13:10',
@@ -41,8 +41,8 @@ export const INITIAL_VIDEOS: VideoItem[] = [
   },
   {
     id: 'dv-03',
-    title: '9yo boy',
-    titleBn: '৯ বছরের ছেলে',
+    title: 'Mother with her 9yo son',
+    titleBn: '৯ বছরের ছেলের সাথে মা',
     thumbnailUrl: '/images/7.jpg',
     videoUrl: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4',
     duration: '10:20',
@@ -60,8 +60,8 @@ export const INITIAL_VIDEOS: VideoItem[] = [
   },
   {
     id: 'dv-04',
-    title: 'Bro and Sis',
-    titleBn: 'ভাই-বোন',
+    title: 'Bro-Sis sex',
+    titleBn: 'ভাই-বোন সেক্স',
     thumbnailUrl: '/images/16.jpg',
     videoUrl: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4',
     duration: '14:55',
@@ -79,8 +79,8 @@ export const INITIAL_VIDEOS: VideoItem[] = [
   },
   {
     id: 'dv-05',
-    title: 'Dad and Daughter',
-    titleBn: 'বাবা-মেয়ে',
+    title: 'Dad-Daughter sex',
+    titleBn: 'বাবা-মেয়ের সেক্স',
     thumbnailUrl: '/images/20.jpg',
     videoUrl: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4',
     duration: '22:04',
@@ -98,8 +98,8 @@ export const INITIAL_VIDEOS: VideoItem[] = [
   },
   {
     id: 'dv-06',
-    title: 'Younger siblings',
-    titleBn: 'ছোট ভাই-বোন',
+    title: 'Younger siblings having sex',
+    titleBn: 'ছোট ভাই-বোন সেক্স',
     thumbnailUrl: '/images/40.jpg',
     videoUrl: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4',
     duration: '16:30',
@@ -117,8 +117,8 @@ export const INITIAL_VIDEOS: VideoItem[] = [
   },
   {
     id: 'dv-07',
-    title: 'BF-Gf',
-    titleBn: 'প্রেমিক-প্রেমিকা',
+    title: 'School-going lovers have sex',
+    titleBn: 'স্কুলে পড়া প্রেমিক-প্রেমিকার সেক্স',
     thumbnailUrl: '/images/42.jpg',
     videoUrl: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4',
     duration: '11:25',
