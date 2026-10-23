@@ -61,7 +61,7 @@ export const INITIAL_VIDEOS: VideoItem[] = [
   {
     id: 'dv-04',
     title: 'Bro-Sis sex',
-    titleBn: 'ভাই-বোন সেক্স',
+    titleBn: 'ভাই-বোনের সেক্স',
     thumbnailUrl: '/images/16.jpg',
     videoUrl: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4',
     duration: '14:55',
@@ -99,7 +99,7 @@ export const INITIAL_VIDEOS: VideoItem[] = [
   {
     id: 'dv-06',
     title: 'Younger siblings having sex',
-    titleBn: 'ছোট ভাই-বোন সেক্স',
+    titleBn: 'ছোট ভাই-বোনের সেক্স',
     thumbnailUrl: '/images/40.jpg',
     videoUrl: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4',
     duration: '16:30',
