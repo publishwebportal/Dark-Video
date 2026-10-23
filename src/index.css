@@ -1,0 +1,46 @@
+@import "tailwindcss";
+
+@theme {
+  --color-luna-ice: #A7EBF2;
+  --color-luna-cyan: #54ACBF;
+  --color-luna-slate: #26658C;
+  --color-luna-midnight: #023859;
+  --color-luna-abyss: #011C40;
+  --color-luna-dark: #001229;
+}
+
+@layer base {
+  html, body {
+    overflow-x: hidden;
+    width: 100%;
+    -webkit-tap-highlight-color: transparent;
+  }
+  body {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    background-color: #011C40;
+    color: #e5f6f8;
+    min-height: 100dvh;
+  }
+  h1, h2, h3, h4, .font-display {
+    font-family: 'Outfit', sans-serif;
+  }
+  button, a, input, select, textarea {
+    touch-action: manipulation;
+  }
+}
+
+/* Custom Luna sleek scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #011C40;
+}
+::-webkit-scrollbar-thumb {
+  background: #26658C;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #54ACBF;
+}

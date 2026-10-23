@@ -1,0 +1,8 @@
+{
+  "name": "Dark Video",
+  "description": "Dark Video - Premium dark video streaming platform with ৳100 VIP subscription paywall and interactive media publisher.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

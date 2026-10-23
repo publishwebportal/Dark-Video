@@ -1,0 +1,17 @@
+{
+  "name": "Dark Video — Premium Cinematic Streaming",
+  "short_name": "Dark Video",
+  "description": "Dark Video - Premium cinematic video streaming platform with ৳100 VIP subscription paywall",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#011C40",
+  "theme_color": "#011C40",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
