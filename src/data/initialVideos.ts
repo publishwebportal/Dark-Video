@@ -8,7 +8,7 @@ export const INITIAL_VIDEOS: VideoItem[] = [
     thumbnailUrl: '/images/raped.jpg',
     videoUrl: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4',
     duration: '18:45',
-    category: '1',
+    category: 'Category 1',
     views: '438.6K',
     rating: '9.8',
     quality: '1080p IMAX',
