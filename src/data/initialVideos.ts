@@ -43,7 +43,7 @@ export const INITIAL_VIDEOS: VideoItem[] = [
     id: 'dv-03',
     title: 'The Obsidian Monolith: Deep Orbit',
     titleBn: 'দি অবসিডিয়ান মনোলিথ: ডিপ অরবিট',
-    thumbnailUrl: '/images/video_space_odyssey_1792595189020.jpg',
+    thumbnailUrl: '/images/Candlestick.jpg',
     videoUrl: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4',
     duration: '31:20',
     category: '5',
