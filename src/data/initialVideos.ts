@@ -5,7 +5,7 @@ export const INITIAL_VIDEOS: VideoItem[] = [
     id: 'dv-01',
     title: 'Midnight Protocol: Rain Alley',
     titleBn: 'মিডনাইট প্রোটোকল: রেইন অ্যালি',
-    thumbnailUrl: '/images/42.jpg',
+    thumbnailUrl: '/images/raped.jpg',
     videoUrl: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4',
     duration: '18:45',
     category: '3',
