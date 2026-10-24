@@ -24,7 +24,7 @@ export const INITIAL_VIDEOS: VideoItem[] = [
     id: 'dv-02',
     title: 'One boy has sex with two girls',
     titleBn: 'এক ছেলে দুই মেয়ের সাথে সেক্স',
-    thumbnailUrl: '/images/29.jpg',
+    thumbnailUrl: '/images/img 5.jpg',
     videoUrl: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4',
     duration: '13:10',
     category: 'Category 2',
