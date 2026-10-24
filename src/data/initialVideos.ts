@@ -171,5 +171,5 @@ export const INITIAL_VIDEOS: VideoItem[] = [
     director: 'R. Kaito',
     year: '2026',
     dateAdded: Date.now() - 1000 * 60 * 60 * 120,
-  },
+  }
 ];
