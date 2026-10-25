@@ -52,7 +52,7 @@ export const PaywallModal: React.FC<PaywallModalProps> = ({
   if (!isOpen) return null;
 
   const isBn = language === 'bn';
-  const telegramUsername = '@HII_THEREE00';
+  const telegramUsername = '@Upomaupi';
   const telegramLink = 'https://t.me/HII_THEREE00';
   const adminQrImage = '/admin-contact-qr.jpg';
 
