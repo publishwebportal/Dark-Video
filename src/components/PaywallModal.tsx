@@ -53,7 +53,7 @@ export const PaywallModal: React.FC<PaywallModalProps> = ({
 
   const isBn = language === 'bn';
   const telegramUsername = '@Upomaupi';
-  const telegramLink = 'https://t.me/HII_THEREE00';
+  const telegramLink = 'https://t.me/Upomaupi';
   const adminQrImage = '/admin-contact-qr.jpg';
 
   const handleCopyTelegram = async () => {
