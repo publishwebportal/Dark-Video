@@ -5,7 +5,7 @@ export const INITIAL_VIDEOS: VideoItem[] = [
     id: 'dv-01',
     title: 'Rape of a 13yo girl',
     titleBn: '১৩ বছরের মেয়েকে ধর্ষণ',
-    thumbnailUrl: '/images/raped.jpg',
+    thumbnailUrl: '/images/image.jpg',
     videoUrl: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4',
     duration: '18:45',
     category: 'Category 1',
